@@ -4,8 +4,6 @@
 - 💻가치 있는 사람이 되기 위해 노력 중입니다
 
 ## My Tech Stack
-<h3 align="center">📚 My Tech Stack 📚</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
