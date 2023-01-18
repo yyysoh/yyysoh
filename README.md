@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=9cf"/>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=blue"/>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=green"/>&nbsp 
+  <br>
 </p>
 
 <h3 align="center">🌈 Me 🌈</h3>
