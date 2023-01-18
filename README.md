@@ -4,7 +4,7 @@
 - 💻가치 있는 사람이 되기 위해 노력 중입니다
 
 ## My Tech Stack
-<p align="center">
+
   <img src="https://img.shields.io/badge/Java-8BC0D0?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=blue"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
@@ -21,5 +21,5 @@
   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
+
 
