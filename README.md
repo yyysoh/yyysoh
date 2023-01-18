@@ -5,15 +5,15 @@
 
 ## My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JSP?style=flat-square&logo=JSP&logoColor=blue"/>&nbsp
+  <img src="https://img.shields.io/badge/JAVA-111111?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JSP-111111?style=flat-square&logo=JSP&logoColor=blue"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=green"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=lightgrey"/>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=9cf"/>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=blue"/>&nbsp 
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
