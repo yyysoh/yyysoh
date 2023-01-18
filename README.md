@@ -5,7 +5,7 @@
 
 ## My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-8BC0D0?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=blue"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <br>
