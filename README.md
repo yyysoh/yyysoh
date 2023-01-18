@@ -1,6 +1,5 @@
-<p align="center">
-<h3> 안녕하세요😃 </h3><br>
-</p>
+
+<h3 align="center"> 안녕하세요😃 </h3>
 
 <p align="center">
 - 👩‍끊임없이 배우며, 작은 하나라도 알고 넘어가는 신입 백엔드 개발자입니다 <br>
